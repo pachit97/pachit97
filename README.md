@@ -3,7 +3,7 @@
 
 ## Sobre mi⚡
 
-Me llamo Francisco, soy un desarrollador Web Full Stack. Me apasiona la programación y constantemente estoy buscando aprender nuevas skills.
+Soy un desarrollador Web Full Stack. Me apasiona la programación y constantemente estoy buscando aprender nuevas skills.
 Habiendo también estudiado Marketing, he aprendido a comunicar ideas y conceptos de forma clara, usar la creatividad para pensar soluciones y desarrollar proyectos en conjunto con mas personas.
 
 ## Proyectos 🚀
