@@ -8,7 +8,7 @@ Habiendo también estudiado Marketing, he aprendido a comunicar ideas y concepto
 
 ## Proyectos 🚀
 #### Countries App
-Como conclusión de este Bootcamp, cree un proyecto individual llamado Countries App, que consiste principalmente en visualizar paises mediante filtros y búsquedas, con la posibilidad de crear actividades en el lugar que se desee.
+Como conclusión del Bootcamp que curse llamado "Soy Henry", cree un proyecto individual nombrado Countries App, que consiste principalmente en visualizar paises mediante filtros y búsquedas, con la posibilidad de crear actividades en el lugar que se desee.
 Este proyecto fue desarrollado mediante JavaScript y las principales tecnologías utilizadas fueron React, NodeJs, Redux, Express, Sequelize, PostgreSQL, CSS y HTML.
 
 <hr>
